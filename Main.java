@@ -2,12 +2,12 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
 
-//////////Variables
-Scanner input = new Scanner(System.in);
-String question1;
-char question2;
-int question3;
-String question4;
+  //////////Variables
+  Scanner input = new Scanner(System.in);
+  String question1;
+  char question2;
+  int question3;
+  String question4;
 
 
 //////////Input Screen for question 1
